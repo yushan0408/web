@@ -1,0 +1,424 @@
+.site{
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 3006px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+}
+.site b{
+    padding-left: 360px;
+}
+
+.headingBox{
+    /* Layout Properties */
+    top: 40px;
+    left: 360px;
+    width: 274px;
+    height: 190px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 80px/95px SF Pro Text;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    padding-left: 360px;
+}
+.photo{
+    top: 302px;
+    left: 360px;
+    width: 324px;
+    height: 324px;
+    background: transparent url('img/photo-1536180931879-fd2d652efddc.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    padding-left: 360px;
+    margin-top: 72px;
+}
+.personalProfile{
+    display: flex; /* 启用Flexbox布局 */
+    justify-content: flex-start; /* 在容器内均匀分布子元素，两侧对齐 */
+    align-items: baseline;
+    padding-left: 360px;
+}  
+.personalProfileChi{
+    /* Layout Properties */
+    top: 674px;
+    left: 360px;
+    width: 128px;
+    height: 48px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 32px/48px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-right: 16px;
+    margin-top: 48;
+
+}
+.personalProfileEng{
+    top: 680px;
+    left: 504px;
+    width: 101px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #A00404;
+    opacity: 1;
+}
+.content1{
+    /* Layout Properties */
+    top: 746px;
+    left: 360px;
+    width: 439px;
+    height: 108px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/36px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    padding-left: 360px;
+    margin-top: 24px;
+}
+.content2{
+    /* Layout Properties */
+    top: 878px;
+    left: 360px;
+    width: 696px;
+    height: 108px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/36px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    padding-left: 360px;
+    margin-top: 24px;
+}
+.education{
+    display: flex; /* 启用Flexbox布局 */
+    justify-content: flex-start; /* 在容器内均匀分布子元素，两侧对齐 */
+    align-items: baseline;
+    padding-left: 360px;
+}
+.educationChi{
+    /* Layout Properties */
+top: 1050px;
+left: 360px;
+width: 64px;
+height: 48px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 32px/48px PingFang TC;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+margin-right: 16px;
+margin-top: 64px;
+}
+.educationEng{
+    top: 1056px;
+    left: 440px;
+    width: 143px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #A00404;
+    opacity: 1;
+}
+.content3{
+    /* Layout Properties */
+    top: 1122px;
+    left: 360px;
+    width: 603px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/36px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    padding-left: 360px;
+    margin-top: 24px;
+}
+.content4{
+    /* Layout Properties */
+    top: 1174px;
+    left: 360px;
+    width: 422px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/36px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    padding-left: 360px;
+    margin-top: 24px;
+}
+.blue1{
+    top: 1274px;
+    left: 0px;
+    width: 1920px;
+    height: 460px;
+    /* UI Properties */
+    background: #415165 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 64px;
+}
+.blue1 c{
+    padding-left: 360px;
+    color: #FFFFFF;
+}
+
+.skill{
+    display: flex; /* 启用Flexbox布局 */
+    justify-content: flex-start; /* 在容器内均匀分布子元素，两侧对齐 */
+    align-items: baseline;
+}
+.skillChi{
+    top: 1298px;
+    left: 882px;
+    width: 64px;
+    height: 48px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 32px/48px PingFang TC;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 24px;
+    margin-left: 882px;
+    margin-right: 16px;
+}
+.skillEng{
+    /* Layout Properties */
+    top: 1304px;
+    left: 962px;
+    width: 84px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.line{
+    top: 1394px;
+    left: 852px;
+    width: 0px;
+    height: 300px;
+    /* UI Properties */
+    border: 1px solid #96A9C4;
+    opacity: 1;
+    margin-top: 24px;
+    margin-left: 852px;
+}
+.content5{
+    top: 1394px;
+    left: 876px;
+    width: 200px;
+    height: 36px;
+    /* UI Properties */
+    font: normal normal 300 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 10px;
+}
+.workExperience{
+    display: flex; /* 启用Flexbox布局 */
+    justify-content: flex-start; /* 在容器内均匀分布子元素，两侧对齐 */
+    align-items: baseline;
+    margin-left: 360px;
+}
+.workExperienceChi{
+    top: 1798px;
+    left: 360px;
+    width: 128px;
+    height: 48px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 32px/48px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-right: 16px;
+    margin-top: 64px;
+}
+.workExperienceEng{
+    /* Layout Properties */
+    top: 1804px;
+    left: 504px;
+    width: 360px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #A00404;
+    opacity: 1;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.line2{
+    width: 0px;
+    height: 654px;
+    /* UI Properties */
+    border: 1px solid #96A9C4;
+    opacity: 1;
+    margin-top: 24px;
+    margin-left: 384px;  
+}
+.content6{
+    align-items: center; /* 让内容垂直居中 */
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.content6 p1{
+    line-height: 60px !important;
+    width: 509px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 24px/36px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.content6 img{
+    width: 100px;
+    height: 100px;
+    /* UI Properties */
+    margin-right: 24px;
+    opacity: 1;
+}
+.content6 p2{
+    /* Layout Properties */
+    width: 642px;
+    height: 150px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 20px/30px PingFang TC;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.blue2{
+    width: 1920px;
+    height: 500px;
+    /* UI Properties */
+    background: #415165 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-top: 80px;
+}
+.blue2 c{
+    padding-left: 360px;
+    color: #FFFFFF;
+}
+.contactMethod{
+    display: flex; /* 启用Flexbox布局 */
+    justify-content: flex-start; /* 在容器内均匀分布子元素，两侧对齐 */
+    align-items: baseline;
+    padding-left: 782px;
+    margin-top: 24px;
+}
+.contactMethodChi{
+    width: 128px;
+    height: 24px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 32px/48px PingFang TC;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-right: 16px;
+}
+.contactMethodEng{
+    width: 400px;
+    height: 30px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.content7{
+    margin-left: 810px;
+    width: 311px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 32px;
+    line-height: 16px;
+}
+.content8{
+    margin-left: 847px;
+    width: 311px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 32px;
+    line-height: 16px;
+}
+.content9{
+    margin-left: 857px;
+    width: 311px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 32px;
+    line-height: 16px;
+}
+.content10{
+    margin-left: 696px;
+    width: 530px;
+    height: 36px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 24px/36px SF Pro Text;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 864px;
+
+}
+.container2 img{
+    width: 48px;
+    height: 48px;
+    /* UI Properties */
+    background: transparent url('img/facebook.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-right: 24px;
+    margin-top: 16px;
+}
